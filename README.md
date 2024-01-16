@@ -2,7 +2,7 @@
 
 Production-ready docker-compose for Connext routers.
 
-## Router Setup Using docker-compose
+## Router Setup 
 
 ### Requirements
 
